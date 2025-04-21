@@ -45,6 +45,6 @@ We’re building a **fast, lightweight, and user-friendly** Linux distribution t
 **💙 Made for gamers, by gamers.**  
 **Stay tuned for updates!**  
 
-*(Last updated: 2024)*  
+*(Last updated: 2025)*  
 
 ---
