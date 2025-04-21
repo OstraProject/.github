@@ -1,14 +1,50 @@
-Hi there 👋
-***We are Ostra Project***
-----
-We (well, for now, just me) are trying to make a high-quality, practical, convenient Linux distribution based on Ubuntu!
+# **👋 Welcome to Ostra Project!**  
 
-----
-**The main differences of our distribution:**
-1. KDE Plasma 6 - provides comfortable use of the system, also providing a comfortable transition from Windows.
-2. Optimization for games - Proton, Lutris, Wine and Steam out of the box.
-3. Light weight - takes up less disk space.
-4. Custom Themes 
+***Crafting a sleek, gaming-ready Linux distro based on Ubuntu.***  
 
-----
-Project stage: beginning of development
+---
+
+## **🚀 Why Ostra?**  
+We’re building a **fast, lightweight, and user-friendly** Linux distribution tailored for gamers and everyday users—combining Ubuntu’s stability with a polished KDE Plasma 6 experience.  
+
+### **✨ Key Features**  
+✅ **KDE Plasma 6** – A modern, Windows-like desktop with smooth workflows.  
+✅ **Gaming-Ready** – Pre-installed with **Proton, Lutris, Wine, and Steam** for instant play.  
+✅ **Optimized Performance** – Lightweight, bloat-free, and tuned for speed.  
+✅ **Custom Themes & Styling** – A unique, cohesive look right from installation.  
+
+---
+
+## **📌 Current Status**  
+🛠️ **Early Development** – Core features in progress.  
+🔜 **First Alpha Release Coming Soon!**  
+
+---
+
+## **💻 Planned Technical Specs**  
+- **Base:** Ubuntu LTS (minimal install)  
+- **DE:** KDE Plasma 6 (Wayland by default, X11 optional)  
+- **Pre-installed Gaming Tools:**  
+  - Steam (with Proton-GE)  
+  - Lutris (pre-configured Wine & DXVK)  
+  - MangoHUD (performance overlay)  
+  - Gamemode (CPU/GPU optimization)  
+- **Storage:** ~15-20GB minimal install (lighter than standard Ubuntu).  
+- **Default Apps:**  
+  - Firefox (gaming-optimized flags)  
+  - Discord (Flatpak for sandboxing)  
+  - LibreOffice (optional in installer)  
+
+---
+
+## **🔮 Future Plans**  
+- **Ostra Control Center** (easy system & gaming tweaks)  
+
+---
+
+**💙 Made for gamers, by gamers.**  
+**Stay tuned for updates!**  
+
+*(Last updated: 2024)*  
+
+---
