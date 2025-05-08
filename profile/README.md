@@ -29,7 +29,7 @@ We’re building a **fast, lightweight, and user-friendly** Linux distribution t
   - Lutris (pre-configured Wine & DXVK)  
   - MangoHUD (performance overlay)  
   - Gamemode (CPU/GPU optimization)  
-- **Storage:** ~15-20GB minimal install (lighter than standard Ubuntu).  
+- **Storage:** ***soon***
 - **Default Apps:**  
   - Firefox (gaming-optimized flags)  
   - Discord (Flatpak for sandboxing)  
